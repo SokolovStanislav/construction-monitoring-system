@@ -25,7 +25,7 @@
 
 Результаты работы моделей объединяются модулем агрегации (Ensemble Router) по стратегии позднего слияния (late fusion).
 
-## 🛠️ Технологический стек
+## Технологический стек
 
 **Backend:**
 - Python 3.11, FastAPI
@@ -76,7 +76,7 @@ construction-monitoring-system/
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/ТВОЙ_ЛОГИН/construction-monitoring-system.git
+git clone https://github.com/SokolovStanislav/construction-monitoring-system.git
 cd construction-monitoring-system
 
 # Запуск всех сервисов
